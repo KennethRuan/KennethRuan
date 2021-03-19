@@ -21,3 +21,5 @@ I'm Kenneth, a grade 11 MaCS student at William Mackenzie CI. Since you're alrea
 - 📬 Reach me at [Email](mailto:kennethjruan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kenneth-ruan-4107651a1/)
 
 If you have time, be sure to check out my [website](kennethruan.github.io) too!
+
+<!-- [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KennethRuan&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) -->
