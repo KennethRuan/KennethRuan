@@ -23,3 +23,7 @@ I'm Kenneth, a grade 11 MaCS student at William Mackenzie CI. Since you're alrea
 If you have time, be sure to check out my [website](kennethruan.github.io) too!
 
 <!-- [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KennethRuan&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennethRuan&langs_count=8&layout=compact&theme=nightowl" />
+</a>
