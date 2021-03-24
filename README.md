@@ -20,5 +20,5 @@ I'm Kenneth, a grade 11 MaCS student at William Mackenzie CI. Since you're alrea
 - ⚙️ I've worked with Python, Java, C/C++, Assembly, Processing, Arduino, HTML, CSS, JS, React, Tensorflow and Flask
 - 📬 Reach me at [Email](mailto:kennethjruan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kenneth-ruan-4107651a1/)
 
-If you have time, be sure to check out my [website](kennethruan.github.io) too!
+If you have time, be sure to check out my [website](https://kennethruan.github.io/) too!
 
