@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kenneth, a grade 11 MaCS student at William Mackenzie CI. Since you're already here, feel free to take a look around at my pinned repositories and other work. Have a good stay! 😄
+I'm Kenneth, a grade 12 MaCS student at William Mackenzie CI. Since you're already here, feel free to take a look around at my pinned repositories and other work. Have a good stay! 😄
 
 - 🌱 I’m currently learning ML techniques to enhance my personal and hackathon projects
 - ⚙️ I've worked with Python, Java, C/C++, Assembly, Processing, Arduino, HTML, CSS, JS, React, Tensorflow, Django and Flask
